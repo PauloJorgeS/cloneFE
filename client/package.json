@@ -1,0 +1,22 @@
+{
+  "name": "paulo_sousa",
+  "version": "1.0.0",
+  "description": "meu test",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PauloJorgeS/TestFE.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PauloJorgeS/TestFE/issues"
+  },
+  "homepage": "https://github.com/PauloJorgeS/TestFE#readme"
+}
